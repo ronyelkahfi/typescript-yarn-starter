@@ -1,0 +1,12 @@
+{
+  "name": "scraper-project",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "@types/node": "^18.11.13",
+    "axios": "^1.2.1",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
