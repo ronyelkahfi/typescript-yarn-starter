@@ -1,1 +1,1 @@
-# scraper-project
+# Typescript Using Yarn Starter Package
